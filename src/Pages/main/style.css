@@ -1,0 +1,21 @@
+main{
+    padding: 4rem 1rem 1rem 1rem;
+    background-color: var(--color-blue);
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1rem;
+}
+
+main .info{
+    grid-column: span 3;
+    color: #ffffff;
+    text-align: center;
+}
+
+
+@media screen and (max-width: 769px) {
+main a{
+    grid-column: span 3;
+}
+      
+}

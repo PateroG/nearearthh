@@ -1,0 +1,18 @@
+.grid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1rem;
+    padding: 0 1rem;
+}
+
+.item-01{
+    grid-column: span 1;
+}
+
+.item-02{
+    grid-column: span 2;
+}
+
+.item-03{
+    grid-column: span 2;
+}

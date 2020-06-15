@@ -1,0 +1,23 @@
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    text-align: center;
+    background-color: var(--color-red);
+    color: #FFF;
+    width: 100%;
+    padding: .5rem;
+    display: grid;
+    align-content: center;
+    height: 3rem;
+    text-transform: uppercase;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+header h1{
+    font-size: 1rem;
+    line-height: 1rem;
+    text-transform: uppercase;
+}
