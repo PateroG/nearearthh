@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nearearthh/static/css/main.8effb0e4.chunk.css",
+    "main.js": "/nearearthh/static/js/main.b43541b1.chunk.js",
+    "main.js.map": "/nearearthh/static/js/main.b43541b1.chunk.js.map",
+    "runtime-main.js": "/nearearthh/static/js/runtime-main.6052ba87.js",
+    "runtime-main.js.map": "/nearearthh/static/js/runtime-main.6052ba87.js.map",
+    "static/js/2.9282e7cc.chunk.js": "/nearearthh/static/js/2.9282e7cc.chunk.js",
+    "static/js/2.9282e7cc.chunk.js.map": "/nearearthh/static/js/2.9282e7cc.chunk.js.map",
+    "index.html": "/nearearthh/index.html",
+    "precache-manifest.a2de1ab568e1c50f1c5761345a5ba050.js": "/nearearthh/precache-manifest.a2de1ab568e1c50f1c5761345a5ba050.js",
+    "service-worker.js": "/nearearthh/service-worker.js",
+    "static/css/main.8effb0e4.chunk.css.map": "/nearearthh/static/css/main.8effb0e4.chunk.css.map",
+    "static/js/2.9282e7cc.chunk.js.LICENSE.txt": "/nearearthh/static/js/2.9282e7cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6052ba87.js",
+    "static/js/2.9282e7cc.chunk.js",
+    "static/css/main.8effb0e4.chunk.css",
+    "static/js/main.b43541b1.chunk.js"
+  ]
+}
